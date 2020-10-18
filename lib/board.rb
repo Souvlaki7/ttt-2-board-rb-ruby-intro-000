@@ -1,1 +1,1 @@
-row = Array
+row_array = [" ", " ", " "]
